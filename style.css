@@ -1,4 +1,3 @@
-
 .top{
     background-color: blanchedalmond;
     height: 170px;
@@ -16,7 +15,7 @@
     position: absolute;
     padding: 30 0 20 30px;
 }
-.parallax1, .parallax2, .parallax3, .parallax4, .parallax5{
+.parallax1, .parallax2, .parallax3, .parallax4, .parallax5, .parallax6{
     position: relative;
     opacity: 0.6;
     background-position: center;
@@ -50,6 +49,9 @@
 }
 .parallax5{
     background-image: url("https://keralatourism.travel/images/destinations/headers/kochi-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpg");
+}
+.parallax6{
+    background-image: url("https://assets.cntraveller.in/photos/6138b4d7b608619ba75f717e/master/pass/Ladakh-lead.jpg");
 }
 .text-box{
     background-color: black;
