@@ -1,0 +1,62 @@
+
+.top{
+    background-color: blanchedalmond;
+    height: 170px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 60px;
+    padding: 4px;   
+}
+#top{
+    text-align: center;
+    top: 100px;
+}
+.logo{
+    height: 100px;
+    position: absolute;
+    padding: 30 0 20 30px;
+}
+.parallax1, .parallax2, .parallax3, .parallax4, .parallax5{
+    position: relative;
+    opacity: 0.6;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+.parallax1{
+    background-image: url("https://wallpapercave.com/wp/wp4189962.jpg");
+}
+.text{
+    background-color: rgb(219, 152, 152);
+    height: auto;
+    font-size: 25px;
+    padding: 5 0 5 5px;
+}
+
+.link{
+    text-decoration: none;
+    color: purple;
+}
+.parallax2{
+    background-image: url("https://wallpapercave.com/wp/wp4909618.jpg");
+}
+.parallax3{
+    background-image: url("https://mycitychennai.com/wp-content/uploads/2017/06/1-1600x1064.jpg");
+}
+.parallax4{
+    background-image: url("https://www.holidify.com/images/bgImages/BANGALORE.jpg");
+}
+.parallax5{
+    background-image: url("https://keralatourism.travel/images/destinations/headers/kochi-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpg");
+}
+.text-box{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 5px;
+    padding: 20px; 
+    text-transform: uppercase;
+}
